@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3a73dc2-7bc5-4147-85c7-d1379c4fff97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/basic_example_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_example_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser_based_example_client.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser_based_example_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echo_example_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echo_example_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secure_example_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secure_example_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/synchronization_example_client.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/synchronization_example_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="yYTLDXre" />
+  </component>
+  <component name="ProjectId" id="1bkAyq5Fm6Dm0zx2yLRmBryXCr1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="/usr/local/lib/node_modules/stylelint" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3a73dc2-7bc5-4147-85c7-d1379c4fff97" name="Default Changelist" comment="" />
+      <created>1589165974580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589165974580</updated>
+      <workItem from="1589165976345" duration="2478000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1094" y="-730" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589166805921">
+      <screen x="449" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1094" y="-730" key="#com.intellij.fileTypes.FileTypeChooser/449.-1080.1920.1080/-631.-1920.1080.1920/0.0.1440.900@449.-1080.1920.1080" timestamp="1589166805921" />
+  </component>
+</project>
