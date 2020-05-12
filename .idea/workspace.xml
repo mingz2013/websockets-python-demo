@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3a73dc2-7bc5-4147-85c7-d1379c4fff97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basic_example_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_example_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/browser_based_example_client.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/browser_based_example_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/echo_example_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/echo_example_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secure_example_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secure_example_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/synchronization_example_client.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/synchronization_example_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_async_await.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_async_await_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_async_await_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_read_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_future.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +47,104 @@
     <property name="node.js.selected.package.stylelint" value="/usr/local/lib/node_modules/stylelint" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
+  <component name="RunManager" selected="Python.test_async_await_2">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="websockets-python-demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_async_await.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_async_await_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="websockets-python-demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_async_await_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_async_await_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="websockets-python-demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_async_await_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_future" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="websockets-python-demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_future.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_async_await_2" />
+        <item itemvalue="Python.test_async_await_3" />
+        <item itemvalue="Python.test_future" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -75,17 +167,64 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589165974580</updated>
-      <workItem from="1589165976345" duration="2478000" />
+      <workItem from="1589165976345" duration="4357000" />
+      <workItem from="1589251864970" duration="5086000" />
     </task>
+    <task id="LOCAL-00001" summary="websocket">
+      <created>1589179400725</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589179400725</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="websocket" />
+    <option name="LAST_COMMIT_MESSAGE" value="websocket" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1094" y="-730" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589166805921">
       <screen x="449" y="-1080" width="1920" height="1080" />
     </state>
     <state x="1094" y="-730" key="#com.intellij.fileTypes.FileTypeChooser/449.-1080.1920.1080/-631.-1920.1080.1920/0.0.1440.900@449.-1080.1920.1080" timestamp="1589166805921" />
+    <state x="1020" y="-938" key="CommitChangelistDialog2" timestamp="1589179400597">
+      <screen x="449" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1020" y="-938" key="CommitChangelistDialog2/449.-1080.1920.1080/-631.-1920.1080.1920/0.0.1440.900@449.-1080.1920.1080" timestamp="1589179400597" />
+    <state width="1878" height="224" key="GridCell.Tab.0.bottom" timestamp="1589256367273">
+      <screen x="449" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="224" key="GridCell.Tab.0.bottom/449.-1057.1920.1057/-631.-1897.1080.1897/67.23.1373.877@449.-1057.1920.1057" timestamp="1589256367273" />
+    <state width="1878" height="225" key="GridCell.Tab.0.bottom/449.-1057.1920.1057/-631.-1920.1080.1920/67.23.1373.877@449.-1057.1920.1057" timestamp="1589254002210" />
+    <state width="1878" height="224" key="GridCell.Tab.0.center" timestamp="1589256367271">
+      <screen x="449" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="224" key="GridCell.Tab.0.center/449.-1057.1920.1057/-631.-1897.1080.1897/67.23.1373.877@449.-1057.1920.1057" timestamp="1589256367271" />
+    <state width="1878" height="225" key="GridCell.Tab.0.center/449.-1057.1920.1057/-631.-1920.1080.1920/67.23.1373.877@449.-1057.1920.1057" timestamp="1589254002208" />
+    <state width="1878" height="224" key="GridCell.Tab.0.left" timestamp="1589256367270">
+      <screen x="449" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="224" key="GridCell.Tab.0.left/449.-1057.1920.1057/-631.-1897.1080.1897/67.23.1373.877@449.-1057.1920.1057" timestamp="1589256367270" />
+    <state width="1878" height="225" key="GridCell.Tab.0.left/449.-1057.1920.1057/-631.-1920.1080.1920/67.23.1373.877@449.-1057.1920.1057" timestamp="1589254002207" />
+    <state width="1878" height="224" key="GridCell.Tab.0.right" timestamp="1589256367272">
+      <screen x="449" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="224" key="GridCell.Tab.0.right/449.-1057.1920.1057/-631.-1897.1080.1897/67.23.1373.877@449.-1057.1920.1057" timestamp="1589256367272" />
+    <state width="1878" height="225" key="GridCell.Tab.0.right/449.-1057.1920.1057/-631.-1920.1080.1920/67.23.1373.877@449.-1057.1920.1057" timestamp="1589254002209" />
+    <state x="1009" y="-800" key="Vcs.Push.Dialog.v2" timestamp="1589179407907">
+      <screen x="449" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1009" y="-800" key="Vcs.Push.Dialog.v2/449.-1080.1920.1080/-631.-1920.1080.1920/0.0.1440.900@449.-1080.1920.1080" timestamp="1589179407907" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/websockets_python_demo$test.coverage" NAME="test Coverage Results" MODIFIED="1589253051357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/websockets_python_demo$test_async_await_2.coverage" NAME="test_async_await_2 Coverage Results" MODIFIED="1589256367261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/websockets_python_demo$test_future.coverage" NAME="test_future Coverage Results" MODIFIED="1589255383148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/websockets_python_demo$test_async_await_3.coverage" NAME="test_async_await_3 Coverage Results" MODIFIED="1589255792631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
